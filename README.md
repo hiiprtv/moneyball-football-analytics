@@ -9,90 +9,90 @@ This project is aimed at supporting clubs, analysts, and scouts in making object
 
  Objectives
 
-Identify undervalued players based on performance vs salary/market value
+- Identify undervalued players based on performance vs salary/market value
 
-Build a player efficiency score using advanced metrics
+- Build a player efficiency score using advanced metrics
 
-Apply machine learning to cluster and rank players
+- Apply machine learning to cluster and rank players
 
-Provide insights for budget-efficient recruitment strategies
+- Provide insights for budget-efficient recruitment strategies
 
  Data Sources
 
-Player performance statistics (goals, assists, xG, xA, defensive actions, minutes played, etc.)
+- Player performance statistics (goals, assists, xG, xA, defensive actions, minutes played, etc.)
 
-Player salary / market value data
+- Player salary / market value data
 
 League coverage:
 
-Premier League
+- Premier League
 
-La Liga
+- La Liga
 
-Serie A
+- Serie A
 
-Bundesliga
+- Bundesliga
 
-Ligue 1
+- Ligue 1
 
 (Data collected from publicly available football statistics sources)
 
  Methodology
 
-Data Cleaning & Preprocessing
+- Data Cleaning & Preprocessing
 
-Handling missing values
+- Handling missing values
 
-Normalizing performance metrics
+- Normalizing performance metrics
 
-Filtering by minutes played
+- Filtering by minutes played
 
-Feature Engineering
+- Feature Engineering
 
-Performance-to-salary ratio
+- Performance-to-salary ratio
 
-Per-90 metrics
+- Per-90 metrics
 
-Composite performance scores
+- Composite performance scores
 
-Machine Learning
+- Machine Learning
 
-Clustering players using algorithms like K-Means
+- Clustering players using algorithms like K-Means
 
-Identifying player archetypes and hidden value segments
+- Identifying player archetypes and hidden value segments
 
-Ranking System
+- Ranking System
 
-Scoring players based on efficiency
+- Scoring players based on efficiency
 
-Highlighting top undervalued candidates by position and league
+- Highlighting top undervalued candidates by position and league
 
  Key Insights
 
-Detects players delivering elite-level output at below-market cost
+- Detects players delivering elite-level output at below-market cost
 
-Highlights hidden gems from mid-table and lower-budget clubs
+- Highlights hidden gems from mid-table and lower-budget clubs
 
-Enables comparison across leagues using standardized metrics
+- Enables comparison across leagues using standardized metrics
 
  Tech Stack
 
-Python
+- Python
 
-Pandas, NumPy
+- Pandas, NumPy
 
-Scikit-learn
+- Scikit-learn
 
-Matplotlib / Seaborn
+- Matplotlib / Seaborn
 
-Jupyter Notebook
+- Jupyter Notebook
 
  Use Cases
 
-Football clubs looking for budget-friendly transfers
+- Football clubs looking for budget-friendly transfers
 
-Scouts searching for data-backed player shortlists
+- Scouts searching for data-backed player shortlists
 
-Sports analytics portfolios & case studies
+- Sports analytics portfolios & case studies
 
 Research on financial efficiency in football
