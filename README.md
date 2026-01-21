@@ -1,12 +1,13 @@
-⚽ Moneyball Football Analytics
-📌 Project Overview
+## Moneyball Football Analytics
+
+ Project Overview
 
 Moneyball Football Analytics is a data-driven scouting tool designed to identify undervalued football players across Europe’s Top 5 leagues using performance-to-salary ratios and machine learning techniques.
 The goal is to replicate a Moneyball-style approach to football recruitment—finding high-impact players who deliver strong on-field performance relative to their market value.
 
 This project is aimed at supporting clubs, analysts, and scouts in making objective, data-backed transfer decisions.
 
-🎯 Objectives
+ Objectives
 
 Identify undervalued players based on performance vs salary/market value
 
@@ -16,7 +17,7 @@ Apply machine learning to cluster and rank players
 
 Provide insights for budget-efficient recruitment strategies
 
-📊 Data Sources
+ Data Sources
 
 Player performance statistics (goals, assists, xG, xA, defensive actions, minutes played, etc.)
 
@@ -36,7 +37,7 @@ Ligue 1
 
 (Data collected from publicly available football statistics sources)
 
-🧠 Methodology
+ Methodology
 
 Data Cleaning & Preprocessing
 
@@ -66,7 +67,7 @@ Scoring players based on efficiency
 
 Highlighting top undervalued candidates by position and league
 
-📈 Key Insights
+ Key Insights
 
 Detects players delivering elite-level output at below-market cost
 
@@ -74,7 +75,7 @@ Highlights hidden gems from mid-table and lower-budget clubs
 
 Enables comparison across leagues using standardized metrics
 
-🛠 Tech Stack
+ Tech Stack
 
 Python
 
@@ -86,7 +87,7 @@ Matplotlib / Seaborn
 
 Jupyter Notebook
 
-🚀 Use Cases
+ Use Cases
 
 Football clubs looking for budget-friendly transfers
 
