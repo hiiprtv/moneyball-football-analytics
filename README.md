@@ -86,12 +86,7 @@ This project is aimed at supporting clubs, analysts, and scouts in making object
 
 - Jupyter Notebook
 
- ## Use Cases:
+ ## Future Roadmap (Version 2.0)
+- Lower League Expansion (Tier 2 Analysis): Expand the scouting engine to high-value developmental leagues like the Dutch Eredivisie, Swedish Allsvenskan, and Portuguese Primeira Liga. These leagues are statistically "physical" and demanding, making them perfect predictors for success in the Top 5 leagues.
 
-- Football clubs looking for budget-friendly transfers
-
-- Scouts searching for data-backed player shortlists
-
-- Sports analytics portfolios & case studies
-
-Research on financial efficiency in football
+- Defensive Disruption Metrics: Integrate tracking data signals like Interception Lanes and Pressure Success Rates to identify undervalued defensive anchors whose contributions don't show up on a standard scoresheet.
