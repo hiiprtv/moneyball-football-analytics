@@ -67,13 +67,12 @@ This project is aimed at supporting clubs, analysts, and scouts in making object
 
 - Highlighting top undervalued candidates by position and league
 
- ## Key Insights:
-
-- Detects players delivering elite-level output at below-market cost
-
-- Highlights hidden gems from mid-table and lower-budget clubs
-
-- Enables comparison across leagues using standardized metrics
+ ## The "Scout Score" Formula
+- To identify true value, the project employs a composite index:
+  
+- $$Scout\ Score = \text{Performance\ Raw} \times \left(\frac{25}{Age}\right) \times \text{Fame\ Factor}$$
+  
+- Note: The "Fame Factor" applies a 50% penalty to players already at Top 5 global clubs to ensure the tool focuses on undiscovered talent.
 
  ## Tech Stack:
 
