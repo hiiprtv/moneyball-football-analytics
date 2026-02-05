@@ -49,8 +49,6 @@ This project is aimed at supporting clubs, analysts, and scouts in making object
 
 - Feature Engineering
 
-- Performance-to-salary ratio
-
 - Per-90 metrics
 
 - Composite performance scores
@@ -64,8 +62,6 @@ This project is aimed at supporting clubs, analysts, and scouts in making object
 - Ranking System
 
 - Scoring players based on efficiency
-
-- Highlighting top undervalued candidates by position and league
 
  ## The "Scout Score" Formula
 - To identify true value, the project employs a composite index:
@@ -86,7 +82,7 @@ This project is aimed at supporting clubs, analysts, and scouts in making object
 
 - Jupyter Notebook
 
- ## Future Roadmap (Version 2.0)
+ ## Future Roadmap 
 - Lower League Expansion (Tier 2 Analysis): Expand the scouting engine to high-value developmental leagues like the Dutch Eredivisie, Swedish Allsvenskan, and Portuguese Primeira Liga. These leagues are statistically "physical" and demanding, making them perfect predictors for success in the Top 5 leagues.
 
 - Defensive Disruption Metrics: Integrate tracking data signals like Interception Lanes and Pressure Success Rates to identify undervalued defensive anchors whose contributions don't show up on a standard scoresheet.
